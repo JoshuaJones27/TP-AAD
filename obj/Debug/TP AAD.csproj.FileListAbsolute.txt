@@ -96,3 +96,101 @@ C:\Users\ossie\Desktop\TP AAD\obj\Debug\TP AAD.csproj.CoreCompileInputs.cache
 C:\Users\ossie\Desktop\TP AAD\obj\Debug\TP AAD.csproj.CopyComplete
 C:\Users\ossie\Desktop\TP AAD\obj\Debug\TP AED.exe
 C:\Users\ossie\Desktop\TP AAD\obj\Debug\TP AED.pdb
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\TP AED.exe.config
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\TP AED.exe
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\TP AED.pdb
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Azure.Core.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Azure.Identity.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Google.Protobuf.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\MySql.Data.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\MySqlConnector.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Buffers.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Memory.Data.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Memory.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.Permissions.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Text.Json.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.ValueTuple.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\ZstdNet.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Azure.Core.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Azure.Identity.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Google.Protobuf.pdb
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Google.Protobuf.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\MySql.Data.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\MySqlConnector.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Buffers.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Memory.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Memory.Data.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.Permissions.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Text.Json.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\System.ValueTuple.xml
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.AssemblyReference.cache
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP_AED.Login.resources
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP_AED.NovoUtilizador.resources
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP_AED.Properties.Resources.resources
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP_AED.User.resources
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.GenerateResource.cache
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.CoreCompileInputs.cache
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.CopyComplete
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AED.exe
+C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AED.pdb
