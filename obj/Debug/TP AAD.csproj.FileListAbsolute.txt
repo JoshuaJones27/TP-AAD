@@ -194,3 +194,4 @@ C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.CoreCompileInputs.cache
 C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AAD.csproj.CopyComplete
 C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AED.exe
 C:\Users\ossie\Desktop\TP-AAD\obj\Debug\TP AED.pdb
+C:\Users\ossie\Desktop\TP AAD\obj\Debug\TP_AED.DadosKit.resources

@@ -116,15 +116,16 @@ namespace TP_AED
             String connectionString = "database=smartcampusbicicletas;server=localhost;port=3306;user id=root;";
             MySqlConnection conn = new MySqlConnection(connectionString);
 
-            conn.Open();
-            string sql = "DELETE * FROM utilizador WHERE nif=@nif";
+            
+            string sql = "DELETE FROM utilizador WHERE nif=@nif";
             MySqlCommand command = new MySqlCommand(sql, conn);
             command.Parameters.AddWithValue("@nif", nif);
 
             try
             {
+                conn.Open();
                 command.ExecuteNonQuery();
-                conn.Close();
+                MessageBox.Show("Record Deleted Successfully");
             }
             catch (Exception es)
             {
@@ -133,6 +134,13 @@ namespace TP_AED
 
             conn.Close();
 
+        }
+
+        private void btn_verKit_Click(object sender, EventArgs e)
+        {
+            DadosKit dadosKitForm = new DadosKit();
+            dadosKitForm.Show();
+            this.Hide();
         }
     }
 
